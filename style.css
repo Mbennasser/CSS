@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+nav {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+section {
+    padding: 40px 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+}
+#nom {
+    
+        display: inline;
+        margin-bottom: 10px;
+        font-weight: bold;
+   
+}
+#email {
+    
+    display: inline;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+h1{
+    color: aqua;
+}
+#send{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+footer{
+    left: 300px;
+   color:#04AA6D;
+   text-align: right;
+}
+
+
